@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CheckBoxDemo</string>
+    <string name="languages">Your Preferred Language?</string>
+    <string name="cb1">Android Development</string>
+    <string name="cb2">Web Development</string>
+    <string name="cb3">Game Development</string>
+    <string name="cb4">Graphic Design</string>
+</resources>
